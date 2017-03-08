@@ -71,6 +71,12 @@ public class Card {
 	 */
 	public boolean matches(Card otherCard) {
 		/* *** TO BE IMPLEMENTED IN ACTIVITY 1 *** */
+                if (Card!= othercard) { return false;
+                
+                } else {
+                    
+                    return true;
+                }
 	}
 
 	/**
